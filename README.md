@@ -82,7 +82,11 @@ This guide helps convert Labelstudio export and video data into YOLO training da
 7. *Access the Video*
   - Navigate to the file "anjum_video_output.mp4" 
   - Open the file "anjum_video_output.mp4" in VLC Player
-  - You can see the labeld data in the video
+  - You can see the labeled data in the video
+
+
+8. *The link to the output Video*
+   - https://label.aitools.starwit-infra.de/projects/9/data?tab=10
 
 
 
