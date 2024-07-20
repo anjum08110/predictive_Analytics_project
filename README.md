@@ -77,7 +77,7 @@ This guide helps convert Labelstudio export and video data into YOLO training da
    
 
 6. *Validate YOLO Model*
-  python3 3_yolo_inference.py <Path-of-the-anjum_vedio> -m n -t detect -p
+  -python3 3_yolo_inference.py <Path-of-the-anjum_vedio> -m n -t detect -p
    
 7. *Access the Video*
   - Navigate to the file "anjum_video_output.mp4" 
