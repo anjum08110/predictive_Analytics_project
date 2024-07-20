@@ -64,7 +64,7 @@ This guide helps convert Labelstudio export and video data into YOLO training da
    - Name it something like frames
 
 3. *Run Script to Create YOLO Dataset*
-   python 1_frames.py -l <Path-of-1A_anjum_data.json> -v <Path-of-anjum_video> -o <Path-of-the-frames-folder> 
+   python 1_frames.py -l <Path-of-1A_anjum_data.json> -v <Path-of-anjum_video> -o <Path-of-the-framed-output-folder> 
    
 
 4. *Edit Dataset Path in Ultralytics Configuration*
