@@ -1,0 +1,10 @@
+path: ./Output/frames
+train: /home/anjum/pre_pa/output/train
+val: /home/anjum/pre_pa/output/val
+
+names:
+  0: brocoli
+  1: blank
+  2: person
+  3: bicycle
+  4: car

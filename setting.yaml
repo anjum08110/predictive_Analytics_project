@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: /home/anjum/pre_pa/datasets
+weights_dir: weights
+runs_dir: runs
+uuid: 24cf2705da8ec408a77a170583b41037d4fa44c1b05d8a760797d21f3dfa596b
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true
